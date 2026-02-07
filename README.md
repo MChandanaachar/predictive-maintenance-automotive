@@ -29,3 +29,9 @@ This project predicts maintenance requirements for automotive components using s
 
 ## Author
 M Chandana
+
+## Live Demo
+This project also has a published interactive demo built using Lovable:
+🔗 https://auto-predict-insight.lovable.app
+
+Note: The demo is for UI and interaction showcase. Core logic and structure are available in this repository.
